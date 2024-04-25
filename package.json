@@ -1,7 +1,7 @@
 {
   "name": "discord-owo-selfbot",
   "version": "2.2.8",
-  "description": "Ain't the best OwO Tool Farm, but worth a try (why not?)",
+  "description": "Didn't you joined yet Royal Nukers so what are you seeing join fast",
   "type": "module",
   "exports": "./dist/index.js",
   "engines": {
@@ -13,8 +13,8 @@
     "start": "tsc && node ./dist/index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LongAKolangle/discord-owo-selfbot.git"
+    "type": "ROYAL NUKERS",
+    "url": "https://discord.com/invite/D28N9Q2xN9"
   },
   "keywords": [
     "discord",
@@ -27,12 +27,12 @@
     "free-owo-toolfarm",
     "owo-tool-farm"
   ],
-  "author": "Eternityyy",
+  "author": "ROYAL NUKERS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LongAKolangle/discord-owo-selfbot/issues"
+    "url": "https://discord.com/invite/D28N9Q2xN9"
   },
-  "homepage": "https://github.com/LongAKolangle/discord-owo-selfbot#readme",
+  "homepage": "https://discord.com/invite/D28N9Q2xN9",
   "dependencies": {
     "2captcha": "^3.0.7",
     "adm-zip": "^0.5.10",
